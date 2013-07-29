@@ -1,7 +1,6 @@
 ---
-published: true
+layout: default
 ---
-{% include header.html %}
 
 ## Home
 
@@ -14,4 +13,3 @@ Test of GitHub Pages
 
 [travis](http://traviswellman.com/)' test edit
 
-{% include footer.html %}
