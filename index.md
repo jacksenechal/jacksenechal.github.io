@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+{% include header.html %}
 
 ## Home
 
@@ -12,3 +13,5 @@ Test of GitHub Pages
 [Foo](http://example.com "asdf")
 
 [travis](http://traviswellman.com/)' test edit
+
+{% include footer.html %}
